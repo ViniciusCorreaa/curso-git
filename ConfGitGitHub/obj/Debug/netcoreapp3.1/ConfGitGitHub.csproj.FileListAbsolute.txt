@@ -1,0 +1,14 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\bin\Debug\netcoreapp3.1\ConfGitGitHub.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\bin\Debug\netcoreapp3.1\ConfGitGitHub.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\bin\Debug\netcoreapp3.1\ConfGitGitHub.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\bin\Debug\netcoreapp3.1\ConfGitGitHub.runtimeconfig.dev.json
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\bin\Debug\netcoreapp3.1\ConfGitGitHub.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\bin\Debug\netcoreapp3.1\ConfGitGitHub.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\C#\ConfGitGitHub\ConfGitGitHub\obj\Debug\netcoreapp3.1\ConfGitGitHub.genruntimeconfig.cache
